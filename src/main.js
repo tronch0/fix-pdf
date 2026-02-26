@@ -1,7 +1,7 @@
 import { jsPDF } from "jspdf";
 
-const DPI = 200;
-const JPEG_QUALITY = 0.95;
+const DPI = 150;
+const JPEG_QUALITY = 0.85;
 
 const dropZone = document.getElementById("drop-zone");
 const fileInput = document.getElementById("file-input");
